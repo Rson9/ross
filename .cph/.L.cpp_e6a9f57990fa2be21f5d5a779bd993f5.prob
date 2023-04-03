@@ -1,0 +1,1 @@
+{"name":"Local: L","url":"d:\\VSCode\\mingw64\\.vscode\\L.cpp","tests":[{"id":1680412770547,"input":"1\n6 7 5\n1 2\n1 4\n3 0\n5 6\n2 0\n4 3\n1 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VSCode\\mingw64\\.vscode\\L.cpp","group":"local","local":true}

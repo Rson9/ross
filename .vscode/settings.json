@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "iostream": "cpp"
+    },
+    "editor.copyWithSyntaxHighlighting": false,
+    "C_Cpp.errorSquiggles": "Enabled"
+}

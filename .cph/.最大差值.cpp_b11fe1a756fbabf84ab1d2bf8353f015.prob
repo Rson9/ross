@@ -1,0 +1,1 @@
+{"name":"Local: 最大差值","url":"d:\\VSCode\\mingw64\\.vscode\\最大差值.cpp","tests":[{"id":1680331487126,"input":"1 1\n0 0 0 0 0 0 0 0 2","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VSCode\\mingw64\\.vscode\\最大差值.cpp","group":"local","local":true}

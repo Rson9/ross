@@ -1,0 +1,1 @@
+{"name":"Local: 疯狂星期四","url":"d:\\VSCode\\mingw64\\.vscode\\疯狂星期四.cpp","tests":[{"id":1680328280664,"input":"3\nKFC1crazy2THURSday3Viv04SO\nKFC1crazy2THURSday3VivO450\n50vIVoakjhsbCrazykfcThursday","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VSCode\\mingw64\\.vscode\\疯狂星期四.cpp","group":"local","local":true}
